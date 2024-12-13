@@ -150,3 +150,4 @@ public class SamuraiController : MonoBehaviour
 }
 
 ```
+![video](https://github.com/SergioPerezLoza/sensores/blob/main/video.gif)
