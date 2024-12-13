@@ -76,7 +76,11 @@ public class SensorDisplay : MonoBehaviour
 }
 
 ```
-![img](https://github.com/SergioPerezLoza/sensores/blob/main/img_jardin.jpeg)
+
+Imagen en clase
+![img_clase](https://github.com/SergioPerezLoza/sensores/blob/main/WhatsApp%20Image%202024-12-13%20at%2009.47.41.jpeg)
+Imagen desde el jardín
+![img_jardin](https://github.com/SergioPerezLoza/sensores/blob/main/img_jardin.jpeg)
 
 ### 2. Movimiento del Samurái
 
