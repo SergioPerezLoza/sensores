@@ -75,7 +75,7 @@ public class SensorDisplay : MonoBehaviour
     }
 }
 
-'''
+```
 
 ### 2. Movimiento del Samurái
 
